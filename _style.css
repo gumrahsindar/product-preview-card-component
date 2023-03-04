@@ -36,7 +36,7 @@ p {
   font-weight: 500;
   color: var(--text-paragraph);
   font-size: 0.875em;
-  word-break: break-all;
+
   line-height: 2;
 }
 
